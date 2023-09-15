@@ -1,5 +1,7 @@
 # Freelancer-Life-Financial-Planner
 
+<img width="1246" alt="app" src="https://github.com/andresolerc/Freelancer-Life-Financial-Planner/assets/23428065/6d9a2a93-8d6b-47c4-b3e3-0252054252cc">
+
 Here's a simple Streamlit app:
 
 This app provides a comprehensive interface for users to input their financial parameters and then see a detailed breakdown of their financial situation.
@@ -34,3 +36,6 @@ To run the app, save the app code to a file, say richlife_planner_app.py, and th
 streamlit run richlife_planner_app.py
 ```
 This will launch the app in your default web browser. As you make changes to the code, Streamlit will automatically update the app in the browser.
+
+
+
